@@ -1,8 +1,9 @@
-# Notices for the ProseBuilder
+# Notices for the ProseBuilder (Fork)
 
-This content is produced and maintained by Johannes Kristan.
+This is a fork of the original [Prose Builder project](https://github.com/bs-jokri/prose-builder),  
+which was created and maintained by Johannes Kristan.
 
-* Project home: https://github.com/bs-jokri/prose-builder
+This fork is maintained by Julia Dusan for educational and research purposes. [Prose Builder fork](https://github.com/judusan/prose-builder)
 
 ## Trademarks
 
@@ -10,23 +11,23 @@ No registered Trademarks assigned to this project
 
 ## Copyright
 
-All content is the property of the respective authors or their employers.
-For more information regarding authorship of content, please consult the
-listed source code repository logs.
+All original content is © the respective authors (see original repository logs).  
+Modifications in this fork © 2025 Julia Dusan.
 
 ## Declared Project Licenses
 
-This program and the accompanying materials are made available under the
-terms of the MIT license which is available at
-https://spdx.org/licenses/MIT.html
+This fork is made available under the terms of the **GNU General Public License v3.0 (GPLv3)**.  
+See [GPLv3 License](https://spdx.org/licenses/GPL-3.0-only.html) for details.
 
-SPDX-License-Identifier: MIT
+> ⚠️ The original project used the [MIT License](https://spdx.org/licenses/MIT.html).
+
+SPDX-License-Identifier: GPL-3.0-only
 
 ## Source Code
 
 The project maintains the following source code repositories:
 
-* https://github.com/bs-jokri/prose-builder
+* https://github.com/judusan/prose-builder
 
 ## Third-Party Dependencies
 
