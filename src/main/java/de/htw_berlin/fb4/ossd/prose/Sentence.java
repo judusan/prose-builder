@@ -1,10 +1,15 @@
-/* SPDX-FileCopyrightText: 2025 Johannes Kristan
+/*
+ * Based on original work:
+ * Copyright (C) 2023 Johannes Kristan
+ * SPDX-License-Identifier: MIT
  *
- * See the NOTICE file(s) distributed with this work for additional
- * information regarding copyright ownership.
+ * Modifications Copyright (C) 2025 Julia Dusan
+ * SPDX-License-Identifier: GPL-3.0-only
  *
- *  SPDX-License-Identifier: MIT
+ * This file includes modifications licensed under the GNU General Public License v3.0.
+ * See LICENSE and NOTICE for details.
  */
+
 package de.htw_berlin.fb4.ossd.prose;
 
 public interface Sentence {
