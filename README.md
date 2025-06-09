@@ -10,4 +10,9 @@ Prose Builder provides a flexible way to construct text content by registering a
 - Automatic line break handling between sentences
 - Simple interface-based design with `Prose` and `Sentence` interfaces
 
+## Contribution
+Contributions are welcome!  
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+
 
